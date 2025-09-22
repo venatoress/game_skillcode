@@ -1,2 +1,2 @@
 # game_skillcode
-prototype
+프로토타입, 최적화 되지 않았음, 버그 여부 모름, 이후 수정 예정
